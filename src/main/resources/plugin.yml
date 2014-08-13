@@ -1,0 +1,9 @@
+name: HexxitFixes
+main: io.github.jisaacs1207.hexxitfixes.hexxitfixes
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+depend: [Vault]
+softdepend: [WorldGuard, WorldEdit, Factions]
+description: >
+             Fixes for the Hexxit modpack.
